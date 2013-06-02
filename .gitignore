@@ -1,6 +1,12 @@
 *.class
+*.o
+*.a
+*.so
+*.exe
+*.log
+.metadata
+/build/
+/bin/
+/debug/
 
-# Package Files #
-*.jar
-*.war
-*.ear
+.DS_Store

@@ -1,6 +1,6 @@
 package net.pocrd.client;
 
-import com.yuncheng.api.request.ApiCode;
+import net.pocrd.apiRequest.ApiCode;
 
 public class Response<T> {
     public int    code;
